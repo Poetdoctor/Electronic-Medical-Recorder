@@ -27,7 +27,7 @@ This mix of tools (Python/Django backend with a Node.js-based frontend build) le
 Installation and Setup Instructions
  1. Clone the repository:
 
-git clone https://github.com/ghavimehr/emr.git
+git clone (https://github.com/Poetdoctor/Electronic-Medical-Recorder.git)
 cd emr
 2. Prepare environment:
  • Copy the sample environment file and fill in secrets (database credentials, Django secret key, etc.):
